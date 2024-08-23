@@ -1,0 +1,25 @@
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# OS specific
+/node_modules/.bin
+/tests
+coverage
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Editor specific
+*.swp
+.DS_Store
+.idea
+.vscode
+
+# Other
+.env
